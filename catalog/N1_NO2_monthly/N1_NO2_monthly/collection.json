@@ -775,7 +775,7 @@
     }
   ],
   "subtitle": "Mean NO2 column density based on OMI data [10^15 mol/cm²]",
-  "thumbnail": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//N1_NO2_monthly/N1_NO2_monthly.png",
+  "thumbnail": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//N1_NO2_monthly/N1_NO2_monthly.png",
   "themes": [
     "atmosphere"
   ],
@@ -852,14 +852,14 @@
   ],
   "assets": {
     "legend": {
-      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//N1_NO2_monthly/N1_NO2_monthly_legend.png",
+      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//N1_NO2_monthly/N1_NO2_monthly_legend.png",
       "type": "image/png",
       "roles": [
         "metadata"
       ]
     },
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//N1_NO2_monthly/N1_NO2_monthly.png",
+      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//N1_NO2_monthly/N1_NO2_monthly.png",
       "type": "image/png",
       "roles": [
         "thumbnail"

@@ -29,7 +29,7 @@
         "C-SAR"
       ],
       "thumbnail": [
-        "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//ESDL_Hydrology_SM/image.png"
+        "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//ESDL_Hydrology_SM/image.png"
       ],
       "tags": [
         "Open data",
@@ -59,7 +59,7 @@
         "OMI"
       ],
       "thumbnail": [
-        "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//N1_NO2_monthly/N1_NO2_monthly.png"
+        "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//N1_NO2_monthly/N1_NO2_monthly.png"
       ],
       "tags": [
         "Air quality",
@@ -88,7 +88,7 @@
         "Sentinel-3"
       ],
       "thumbnail": [
-        "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//IDEAS2_wildlife/IDEAS2_wildlife.png"
+        "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//IDEAS2_wildlife/IDEAS2_wildlife.png"
       ],
       "tags": [
         "GBIF",

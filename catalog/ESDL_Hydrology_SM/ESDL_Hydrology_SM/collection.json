@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "ESDL_Hydrology_SM",
   "stac_version": "1.1.0",
-  "description": "ESDL_Hydrology_SM/ESDL_Hydrology_SM.md",
+  "description": "# Surface Soil Moisture Product\nA experimental dataset of soil-moisture retrievals at 1km effective spatial resolution for all 28 basins of the Mediterranean study-area. The data was processed via the RT1 radiative transfer model using Sentinel-1 (VV) backscatter data together with auxiliary CGLS Leaf Area Index timeseries.\n",
   "links": [
     {
       "rel": "root",
@@ -1117,7 +1117,7 @@
       "doi": "https://doi.org/10.1016/j.rse.2023.113651"
     }
   ],
-  "thumbnail": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//ESDL_Hydrology_SM/image.png",
+  "thumbnail": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//ESDL_Hydrology_SM/image.png",
   "yAxis": "% Relative Saturation",
   "themes": [
     "agriculture",
@@ -1197,14 +1197,14 @@
   ],
   "assets": {
     "legend": {
-      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//ESDL_Hydrology_SM/cm_legend.png",
+      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//ESDL_Hydrology_SM/cm_legend.png",
       "type": "image/png",
       "roles": [
         "metadata"
       ]
     },
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//ESDL_Hydrology_SM/image.png",
+      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//ESDL_Hydrology_SM/image.png",
       "type": "image/png",
       "roles": [
         "thumbnail"
