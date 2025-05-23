@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "N1_NO2_monthly",
   "stac_version": "1.1.0",
-  "description": "Mean NO2 column density based on OMI data [10^15 mol/cm²]",
+  "description": "## Nitrogen Dioxide Monthly\n\nCars, trucks, power plants, and other industrial facilities emit nitrogen dioxide (NO2) as a product of burning fossil fuels. Once in the air, nitrogen dioxide can aggravate respiratory conditions, especially in people with asthma, leading to an increase of symptoms and hospital admissions. Long-term exposure can lead to the development of asthma and potentially increase susceptibility to respiratory infections. Nitrogen dioxide can quickly transform into ground-level ozone, a major respiratory pollutant and one of the main ingredients of summertime smog. Source: [Earthdata.Nasa.gov](https://www.earthdata.nasa.gov/learn/articles/find-no2-data#Visualize%20No2%20Data)\n\n\nThese maps present AURA OMI average tropospheric NO2 compared.\n\nFor details about this product, data access and additional products please visit https://www.earthdata.nasa.gov/learn/articles/find-no2-data#Visualize%20No2%20Data \n\n",
   "links": [
     {
       "rel": "root",
@@ -775,7 +775,7 @@
     }
   ],
   "subtitle": "Mean NO2 column density based on OMI data [10^15 mol/cm²]",
-  "thumbnail": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//N1_NO2_monthly/N1_NO2_monthly.png",
+  "thumbnail": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//N1_NO2_monthly/thumbnail.png",
   "themes": [
     "atmosphere"
   ],
@@ -852,14 +852,14 @@
   ],
   "assets": {
     "legend": {
-      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//N1_NO2_monthly/N1_NO2_monthly_legend.png",
+      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//N1_NO2_monthly/cm_legend.png",
       "type": "image/png",
       "roles": [
         "metadata"
       ]
     },
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//N1_NO2_monthly/N1_NO2_monthly.png",
+      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//N1_NO2_monthly/thumbnail.png",
       "type": "image/png",
       "roles": [
         "thumbnail"
