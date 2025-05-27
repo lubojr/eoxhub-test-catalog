@@ -11,6 +11,19 @@
       "title": "EOxHub test1 workspace Catalog"
     },
     {
+      "rel": "child",
+      "href": "./new_dataset_1/collection.json",
+      "type": "application/json",
+      "title": "test_1",
+      "endpointtype": "COG source_byoc",
+      "code": "test_1",
+      "id": "new_dataset_1",
+      "themes": [],
+      "tags": [],
+      "agency": [],
+      "subcode": "test_1"
+    },
+    {
       "rel": "service",
       "href": "./new_dataset_1/{{feature}}/collection.json",
       "type": "application/json; profile=collection",
@@ -59,23 +72,37 @@
     "spatial": {
       "bbox": [
         [
-          -180.0,
-          -90.0,
-          180.0,
-          90.0
+          -10.717557251908374,
+          23.968511450381676,
+          24.458015267175597,
+          61.89217557251908
+        ],
+        [
+          -10.717557251908374,
+          23.968511450381676,
+          24.458015267175597,
+          61.89217557251908
         ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "2025-05-27T06:54:59.055953Z",
-          null
+          "2023-01-01T00:00:00Z",
+          "2023-01-01T00:00:00Z"
         ]
       ]
     }
   },
   "license": "proprietary",
+  "summaries": {
+    "subcode": [
+      "test_1"
+    ],
+    "thumbnail": [
+      "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//"
+    ]
+  },
   "assets": {
     "legend": {
       "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//",
