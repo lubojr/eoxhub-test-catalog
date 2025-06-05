@@ -17,12 +17,12 @@
       "title": "Global Ocean Colour",
       "endpointtype": "marinedatastore_WMTSCapabilities",
       "subtitle": "",
-      "code": "CMEMS_OC_GLOB",
+      "code": "CMEMS_CHL",
       "id": "cmems_data_chl",
       "themes": [],
       "tags": [],
       "agency": [],
-      "subcode": "CMEMS_OC_GLOB",
+      "subcode": "CMEMS_CHL",
       "collection_group": "",
       "sensor": [],
       "satellite": [],
@@ -73,7 +73,7 @@
   "locations": true,
   "tags": [],
   "agency": [],
-  "subcode": "CMEMS_OC_GLOB",
+  "subcode": "CMEMS_CHL",
   "collection_group": "",
   "sensor": [],
   "satellite": [],
@@ -118,7 +118,7 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "CMEMS_OC_GLOB"
+      "CMEMS_CHL"
     ],
     "thumbnail": [
       "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//"

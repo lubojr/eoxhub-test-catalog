@@ -16,10 +16,10 @@
       "type": "application/json",
       "title": "Global Ocean Colour",
       "subtitle": "",
-      "code": "CMEMS_OC_GLOB",
+      "code": "CMEMS_CHL",
       "id": "cmems_data_chl",
       "themes": [],
-      "subcode": "CMEMS_OC_GLOB",
+      "subcode": "CMEMS_CHL",
       "thumbnail": [
         "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//"
       ],
